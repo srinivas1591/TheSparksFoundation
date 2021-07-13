@@ -17,7 +17,7 @@
 		<div class="buttons">
 			<button class="a">Bank Of Srinu</button>
 			<button><a href="customers.php">View Customers</a></button>
-			<button><a href="customers.php">Make Transactions</a></button>
+			<button><a href="transact.php">Make Transactions</a></button>
 			<button><a href="transactions.php">View Transactions</a></button>
 			<button class="b"></button>
 		</div>
